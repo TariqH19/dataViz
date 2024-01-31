@@ -1,6 +1,6 @@
-# Project Title
+# Spatial Visualization
 
-A brief description of what this project does and who it's for
+SHows how people holiday in Ireland
 
 ## Screenshots
 
